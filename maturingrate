@@ -1,0 +1,4 @@
+T-TEST GROUPS=protein(1 2)
+  /MISSING=ANALYSIS
+  /VARIABLES=maturingrate
+  /CRITERIA=CI(.95).
